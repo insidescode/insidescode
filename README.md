@@ -2,7 +2,7 @@
 
 ## Info
 
-Hi There, I'm InidesCode, A 16 Y.O. Programmer From India.
+Hi There, I'm InsidesCode, A 16 Y.O. Programmer From India.
 
 - :computer: I'm currently working on a "secret" project.
 - :school: I'm currently learning : C++, DS Algo
