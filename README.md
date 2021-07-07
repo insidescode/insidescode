@@ -22,7 +22,8 @@ Hi There, I'm InsidesCode, A 16 Y.O. Programmer From India.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-
+##  🎶 **Currently Playing**
+[![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/21dlpp4ul43o6wj7x7pdmzzeq)
 
 ## OS & Tools
 
